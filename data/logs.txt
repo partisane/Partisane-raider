@@ -1,0 +1,13 @@
+[2023-08-29 17:06:44] INFO: console was cleared
+[2023-08-29 17:06:44] INFO: printed mooner logo
+[2023-08-29 17:06:44] INFO: printed options
+[2023-08-29 17:09:28] INFO: console was cleared
+[2023-08-29 17:09:28] INFO: printed mooner logo
+[2023-08-29 17:09:28] INFO: printed options
+[2023-08-29 17:09:31] INFO: printed option chooser
+[2023-08-29 17:10:14] INFO: console was cleared
+[2023-08-29 17:10:14] INFO: printed mooner logo
+[2023-08-29 17:10:15] INFO: printed options
+[2023-08-29 18:25:55] INFO: console was cleared
+[2023-08-29 18:25:55] INFO: printed mooner logo
+[2023-08-29 18:25:55] INFO: printed options
