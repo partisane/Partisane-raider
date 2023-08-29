@@ -1,0 +1,6 @@
+- 1 Get python lastest version
+- 2 start setup.bat
+- 3 go to data
+- 4 put your token/tokens/webhook
+- 5 Play partizani.py
+- 6 thats it
